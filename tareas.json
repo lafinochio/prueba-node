@@ -1,0 +1,15 @@
+ 
+[
+    {
+        "titulo": "Repasar JSON",
+        "estado": "realizado"
+    },
+    {
+        "titulo": "Repasar JS",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "repasar python",
+        "estado": "pendiente"
+    }
+]
